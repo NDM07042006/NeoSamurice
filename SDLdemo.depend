@@ -1,0 +1,588 @@
+# depslib dependency file v1.0
+1746533385 source:d:\sdldemo\main.cpp
+	<SDL.h>
+	<SDL_ttf.h>
+	<iostream>
+	<SDL_image.h>
+	"game.h"
+	<SDL_mixer.h>
+
+1738919715 source:d:\sdldemo\untitled3.c
+
+1747090800 d:\sdldemo\game.h
+	<SDL.h>
+	<SDL_ttf.h>
+	"EntityComponentSystem.h"
+	<SDL_mixer.h>
+
+1741834096 source:d:\sdldemo\game.cpp
+	"game.h"
+
+1742895252 source:d:\sdldemo\untitled1.c
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_gamecontroller.h"
+	"SDL_guid.h"
+	"SDL_haptic.h"
+	"SDL_hidapi.h"
+	"SDL_hints.h"
+	"SDL_joystick.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_metal.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_shape.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"SDL_locale.h"
+	"SDL_misc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<wchar.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	<sal.h>
+	"begin_code.h"
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+	<winsdkver.h>
+	<sdkddkver.h>
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_platform.h
+	<AvailabilityMacros.h>
+	<TargetConditionals.h>
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\begin_code.h
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\close_code.h
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<sys/cpuinline.h>
+	<mbarrier.h>
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<endian.h>
+	<endian.h>
+	<sys/endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	<process.h>
+	<process.h>
+	<stdlib.h>
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<arm_neon.h>
+	<altivec.h>
+	<arm_neon.h>
+	<armintr.h>
+	<arm_neon.h>
+	<arm64intr.h>
+	<arm64_neon.h>
+	<mm3dnow.h>
+	<lsxintrin.h>
+	<lasxintrin.h>
+	<immintrin.h>
+	<mmintrin.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"SDL_endian.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_guid.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_guid.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_sensor.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_sensor.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_hidapi.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_metal.h
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_shape.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_locale.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1698944750 c:\users\acer\downloads\sdl2-devel-2.28.5-mingw\sdl2-2.28.5\x86_64-w64-mingw32\include\sdl2\sdl_misc.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1742655706 c:\users\acer\downloads\sdl2_image-devel-2.8.2-mingw\sdl2_image-2.8.2\x86_64-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747110368 source:d:\sdldemo\game2.cpp
+	"game.h"
+	<iostream>
+	"TextureManager.h"
+	"Map.h"
+	"Component.h"
+	"GameObject.h"
+	"Vector2D.h"
+	"Collision.h"
+	"FontGame.h"
+	"Button.h"
+	<vector>
+	<SDL_mixer.h>
+
+1744961220 d:\sdldemo\texturemanager.h
+	"game.h"
+
+1745326383 source:d:\sdldemo\texturemanager.cpp
+	"TextureManager.h"
+	<SDL_image.h>
+	<iostream>
+
+1744961219 d:\sdldemo\gameobject.h
+	"game.h"
+	<SDL.h>
+
+1745050418 source:d:\sdldemo\gameobject.cpp
+	<iostream>
+	"GameObject.h"
+	"TextureManager.h"
+
+1745752852 d:\sdldemo\map.h
+	"game.h"
+
+1745753066 source:d:\sdldemo\map.cpp
+	"Map.h"
+	"game.h"
+	"TextureManager.h"
+
+1747036781 d:\sdldemo\entitycomponentsystem.h
+	<vector>
+	<memory>
+	<bitset>
+	<array>
+	<algorithm>
+	<iostream>
+
+1746612517 d:\sdldemo\component.h
+	"EntityComponentSystem.h"
+	"PositionComponent.h"
+	"GameSprite.h"
+	"KeyBoard.h"
+	"ColisionComponent.h"
+	"EnemyBehavior.h"
+	"attackHitBox.h"
+	"GameStat.h"
+	"HealthBar.h"
+	"PlayerHealthBar.h"
+	"Skill.h"
+
+1745572298 source:d:\sdldemo\entitycomponentsystem.cpp
+	"EntityComponentSystem.h"
+
+1745461808 source:d:\sdldemo\vector2d.cpp
+	"Vector2D.h"
+
+1745461787 d:\sdldemo\vector2d.h
+	<iostream>
+
+1746531868 d:\sdldemo\keyboard.h
+	"game.h"
+	"EntityComponentSystem.h"
+	"Component.h"
+
+1747070858 d:\sdldemo\positioncomponent.h
+	"Component.h"
+	"Vector2D.h"
+
+1747110593 d:\sdldemo\gamesprite.h
+	"game.h"
+	"EntityComponentSystem.h"
+	<SDL.h>
+	<SDL_image.h>
+
+1745748528 source:d:\sdldemo\collision.cpp
+	"Collision.h"
+
+1745748603 d:\sdldemo\collision.h
+	<SDL.h>
+
+1745748603 d:\sdldemo\colisioncomponent.h
+	<SDL.h>
+	<string>
+
+1745139739 c:\users\acer\downloads\sdl2_ttf-devel-2.20.0-mingw\sdl2_ttf-2.20.0\x86_64-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1747109357 source:d:\sdldemo\fontgame.cpp
+	"FontGame.h"
+	<SDL.h>
+	"game.h"
+
+1745315029 d:\sdldemo\fontgame.h
+	<SDL_ttf.h>
+
+1745317003 source:d:\sdldemo\titlescreen.cpp
+
+1745316725 d:\sdldemo\titlescreen.h
+	<SDL.h>
+	"FontGame.h"
+	"pauseMenu.h"
+	"game.h"
+	<iostream>
+	<vector>
+
+1745312766 d:\sdldemo\pausemenu.h
+
+1745312766 source:d:\sdldemo\pausemenu.cpp
+
+1745741735 source:d:\sdldemo\button.cpp
+	"Button.h"
+	<iostream>
+
+1745829204 d:\sdldemo\button.h
+	<SDL.h>
+	<SDL_ttf.h>
+	<string>
+
+1747105179 d:\sdldemo\enemybehavior.h
+	"game.h"
+	"EntityComponentSystem.h"
+	"Component.h"
+	<math.h>
+
+1747109897 d:\sdldemo\attackhitbox.h
+	<SDL.h>
+	<string>
+
+1745576760 d:\sdldemo\gamestat.h
+	"Component.h"
+
+1745751662 d:\sdldemo\healthbar.h
+	<SDL.h>
+	"GameStat.h"
+	"PositionComponent.h"
+	"Component.h"
+	"game.h"
+
+1745748473 d:\sdldemo\tilecomponent.h
+
+1746611142 d:\sdldemo\playerhealthbar.h
+	<SDL.h>
+	"GameStat.h"
+	"PositionComponent.h"
+	"Component.h"
+	"game.h"
+
+1746770946 d:\sdldemo\skill.h
+	<SDL.h>
+	<SDL_image.h>
+	"GameStat.h"
+	"PositionComponent.h"
+	"Component.h"
+	"game.h"
+
